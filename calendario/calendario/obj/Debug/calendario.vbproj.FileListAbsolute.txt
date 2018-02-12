@@ -1,0 +1,9 @@
+C:\Users\leti\Documents\Visual Studio 2012\Projects\lety\calendario\calendario\bin\Debug\calendario.exe
+C:\Users\leti\Documents\Visual Studio 2012\Projects\lety\calendario\calendario\bin\Debug\calendario.pdb
+C:\Users\leti\Documents\Visual Studio 2012\Projects\lety\calendario\calendario\bin\Debug\calendario.xml
+C:\Users\leti\Documents\Visual Studio 2012\Projects\lety\calendario\calendario\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\leti\Documents\Visual Studio 2012\Projects\lety\calendario\calendario\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\leti\Documents\Visual Studio 2012\Projects\lety\calendario\calendario\obj\Debug\calendario.vbproj.GenerateResource.Cache
+C:\Users\leti\Documents\Visual Studio 2012\Projects\lety\calendario\calendario\obj\Debug\calendario.exe
+C:\Users\leti\Documents\Visual Studio 2012\Projects\lety\calendario\calendario\obj\Debug\calendario.xml
+C:\Users\leti\Documents\Visual Studio 2012\Projects\lety\calendario\calendario\obj\Debug\calendario.pdb
